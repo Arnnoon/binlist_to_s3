@@ -1,0 +1,6 @@
+apache-airflow
+pendulum
+requests
+boto3
+botocore
+python-dotenv
